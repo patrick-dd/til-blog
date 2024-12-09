@@ -1,2 +1,2 @@
 # til-blog
-Blog for TILs
+A weblog for TILs, well that was the idea.
